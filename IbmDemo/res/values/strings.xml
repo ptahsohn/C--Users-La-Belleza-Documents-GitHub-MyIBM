@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ <string name="app_name">IBM~Demo</string>
+    <string name="hello_world">Loading IBM Sample!</string>
+    <string name="action_settings">Settings</string>
+ 	 <string name="action_settings_1">Call Log</string>
+     <string name="action_settings_2">Sms Log</string>
+ <string name="sms_summerytext">Get Sms Summery</string>
+ <string name="sms_logText">Sms Log in Graphical View (Incoming, Outgoing, Missed calls )</string>
+ <string name="call_LogText">Call Log in Graphical View(Inbox,Outbox,Draft)</string>
+  <string name="call_summerytext">Get Call Summery</string>
+  <string name="Current_loctext">Getting current location..</string>
+ <string name="month_calledmost">Month Called Most</string>
+  <string name="day_calledmost">Day Called Most</string>
+</resources>
